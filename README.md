@@ -1,2 +1,19 @@
 # vehicle-verification-system
-Aspiring Tech Professional | CS Undergrad &amp; Software Developer Dedicated computer science undergraduate with hands-on experience in software development. Eager to apply my skills and knowledge to real-world problems and contribute to innovative projects.
+A secure web application that allows agents and admins to verify, manage, and track vehicle records using license plate numbers with OCR support.
+
+Frontend: React + JavaScript (TailwindCSS)
+Backend: Django + Django REST Framework
+Database: PostgreSQL
+OCR Engine: EasyOCR
+Authentication: JWT with Django
+
+vehicle-verification-system/
+├── backend/          # Django backend
+├── frontend/         # React frontend
+├── docs/            # Documentation
+└── README.md        # This file
+
+Prerequisites
+- Python 3.8+
+- Node.js 16+
+- PostgreSQL
